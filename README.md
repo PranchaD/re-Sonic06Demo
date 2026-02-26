@@ -11,3 +11,6 @@ Recompiled using the [ReXGlue SDK](https://github.com/rexglue/rexglue-sdk)
 1. Download 'sonic06demo.exe' file on releases tab
 2. Extract the Sonic 06 Demo package files into `assets`
 3. If you're on NVIDIA GPU set the Max Framerate on NVIDIA Control Panel to 1000 or else the game will be very slow.
+
+# Build
+Follow the instructions here [ReXGlue Wiki](https://github.com/rexglue/rexglue-sdk/wiki)
