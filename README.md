@@ -3,6 +3,7 @@
 > [!IMPORTANT]
 > This is uses a version of rexglue that may break this in the future due to it being still in development.
 > It is playable from start to finish but you may get slowdowns while playing specially when videos are playing.
+> For now it only supports gamepad but keyboard is being considered.
 
 Recompiled using the [ReXGlue SDK](https://github.com/rexglue/rexglue-sdk)
 
@@ -14,3 +15,6 @@ Recompiled using the [ReXGlue SDK](https://github.com/rexglue/rexglue-sdk)
 
 # Build
 Follow the instructions here [ReXGlue Wiki](https://github.com/rexglue/rexglue-sdk/wiki)
+
+# Gameplay Video
+https://www.youtube.com/watch?v=2K6Op-ssJJ4
