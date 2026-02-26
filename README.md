@@ -17,4 +17,4 @@ Recompiled using the [ReXGlue SDK](https://github.com/rexglue/rexglue-sdk)
 Follow the instructions here [ReXGlue Wiki](https://github.com/rexglue/rexglue-sdk/wiki)
 
 # Gameplay Video
-https://www.youtube.com/watch?v=2K6Op-ssJJ4
+https://youtu.be/K0rugmqDaOk
